@@ -4,4 +4,8 @@ Web Development
 Web Deployment
 Database Design
 
+BI
+AI
+ML
+
 Thank you.
