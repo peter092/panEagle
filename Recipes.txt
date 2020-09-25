@@ -2,5 +2,6 @@ Welcome to Pan Eagle
 Web Designing
 Web Development
 Web Deployment
+Database Design
 
 Thank you.
